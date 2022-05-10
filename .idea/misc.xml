@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/amanda.almeida/AndroidStudioProjects/CronogramaEstudos/app/src/main/res/drawable/botao_diferenciado.xml" value="0.1185" />
+        <entry key="..\:/Users/amanda.almeida/AndroidStudioProjects/CronogramaEstudos/app/src/main/res/drawable/botaodiferenciado.xml" value="0.252" />
+        <entry key="..\:/Users/amanda.almeida/AndroidStudioProjects/CronogramaEstudos/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1185" />
+        <entry key="..\:/Users/amanda.almeida/AndroidStudioProjects/CronogramaEstudos/app/src/main/res/drawable/new_background_color.xml" value="0.1" />
+        <entry key="..\:/Users/amanda.almeida/AndroidStudioProjects/CronogramaEstudos/app/src/main/res/drawable/teste.xml" value="0.1185" />
+        <entry key="..\:/Users/amanda.almeida/AndroidStudioProjects/CronogramaEstudos/app/src/main/res/layout-land/activity_agendamentos.xml" value="0.1455026455026455" />
+        <entry key="..\:/Users/amanda.almeida/AndroidStudioProjects/CronogramaEstudos/app/src/main/res/layout/actitivy_anotacoes.xml" value="0.171875" />
+        <entry key="..\:/Users/amanda.almeida/AndroidStudioProjects/CronogramaEstudos/app/src/main/res/layout/activity_anotacoes.xml" value="0.25" />
+        <entry key="..\:/Users/amanda.almeida/AndroidStudioProjects/CronogramaEstudos/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/amanda.almeida/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.23072916666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

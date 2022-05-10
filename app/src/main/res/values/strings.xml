@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cronograma Estudos</string>
+
+    <string name="txtTitulo">Adicionar anotação:</string>
+    <string name="txtDisciplina">Disciplina:</string>
+    <string name="txtTarefa">Tarefa:</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="btnAdicionar">Adicionar</string>
+    <string name="checkFinalizado">Finalizado</string>
+</resources>

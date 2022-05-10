@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Study Schedule</string>
+    <string name="txtTitulo">Add a note:</string>
+    <string name="txtDisciplina">Subject:</string>
+    <string name="txtTarefa">Task:</string>
+    <string name="btnSalvar">Save</string>
+    <string name="btnAdicionar">Add</string>
+    <string name="checkFinalizado">Finished</string>
+</resources>
